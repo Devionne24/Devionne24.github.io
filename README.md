@@ -1,1 +1,2 @@
-# Devionne24.github.io
+# Software Engineering Homework
+Homework B for Kent State Software Engineering Class
